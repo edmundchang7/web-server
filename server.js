@@ -31,6 +31,7 @@ app.get("/api/info", (req, res) => {
   res.json({
     course: "COMPSCI 326",
     unit: 2,
+    week: 1,
   });
 });
 
