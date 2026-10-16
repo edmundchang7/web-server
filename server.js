@@ -47,6 +47,6 @@ app.get("/about", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
-// step 1
-// step 2
-// step 3
+// step one
+// step two
+// step three
